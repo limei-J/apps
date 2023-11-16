@@ -23,7 +23,7 @@
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
             "name": "🏄️高天流云"
         }, 
           {
