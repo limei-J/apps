@@ -1,8 +1,8 @@
 {
     "classes": [
         {
-            "type_name": "京剧",
-            "type_id": "京剧"
+            "type_name": "黄梅戏",
+            "type_id": "黄梅戏"
         },
         {
             "type_name": "越剧",
@@ -45,12 +45,8 @@
             "type_id": "歌仔戏"
         },
         {
-            "type_name": "黄梅戏",
-            "type_id": "黄梅戏"
-        },
-        {
-            "type_name": "黄梅戏",
-            "type_id": "黄梅戏"
+            "type_name": "京剧",
+            "type_id": "京剧"
         },
         {
             "type_name": "评剧",
